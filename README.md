@@ -1,2 +1,2 @@
 # technical-writing-samples
-This is my technical writing portfolio.
+Hi! This is my technical writing portfolio. You can view my samples in the Wiki section of this repository.
