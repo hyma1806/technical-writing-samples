@@ -1,2 +1,2 @@
-# technical-writing-sampes
+# technical-writing-samples
 This is my technical writing portfolio.
